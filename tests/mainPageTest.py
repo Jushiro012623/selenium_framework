@@ -1,5 +1,5 @@
 from tests.baseTest import BaseTest
-from testPages import mainPage
+from pages import mainPage
 
 class MainPageTest(BaseTest):
         
